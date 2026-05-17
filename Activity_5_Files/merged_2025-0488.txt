@@ -1,0 +1,4 @@
+Welcome Khalix Julien Bocala (ID: 2025-0488) to File Handling in Python!
+3: LINE 3
+2: LINE 2
+1: LINE 1
